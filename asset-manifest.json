@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://onmotion.github.io/csb-yk4moo/static/css/main.cb55a3f6.chunk.css",
+    "main.js": "https://onmotion.github.io/csb-yk4moo/static/js/main.16949598.chunk.js",
+    "main.js.map": "https://onmotion.github.io/csb-yk4moo/static/js/main.16949598.chunk.js.map",
+    "runtime-main.js": "https://onmotion.github.io/csb-yk4moo/static/js/runtime-main.77ae76c2.js",
+    "runtime-main.js.map": "https://onmotion.github.io/csb-yk4moo/static/js/runtime-main.77ae76c2.js.map",
+    "static/js/2.bd76de9c.chunk.js": "https://onmotion.github.io/csb-yk4moo/static/js/2.bd76de9c.chunk.js",
+    "static/js/2.bd76de9c.chunk.js.map": "https://onmotion.github.io/csb-yk4moo/static/js/2.bd76de9c.chunk.js.map",
+    "index.html": "https://onmotion.github.io/csb-yk4moo/index.html",
+    "static/css/main.cb55a3f6.chunk.css.map": "https://onmotion.github.io/csb-yk4moo/static/css/main.cb55a3f6.chunk.css.map",
+    "static/js/2.bd76de9c.chunk.js.LICENSE.txt": "https://onmotion.github.io/csb-yk4moo/static/js/2.bd76de9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ae76c2.js",
+    "static/js/2.bd76de9c.chunk.js",
+    "static/css/main.cb55a3f6.chunk.css",
+    "static/js/main.16949598.chunk.js"
+  ]
+}
